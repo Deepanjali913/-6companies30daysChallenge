@@ -1,4 +1,4 @@
-// Count number of nice subarrays
+//Repeated DNA Sequences
 #include <bits/stdc++.h>
 using namespace std;
 
